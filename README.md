@@ -1,3 +1,4 @@
+![MasterHead](https://camo.githubusercontent.com/7b0b31a9d649352b6583905a0150c6ae4bc0c7b722e5cfbb6b28ca0ba01fb22c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 <h1 align="center">Hi 👋, I'm Shanmukha Sai Kotamsetti</h1>
 <h3 align="center">A passionate Undergraduate in Computer Science</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
