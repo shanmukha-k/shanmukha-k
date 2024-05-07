@@ -1,4 +1,3 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
 <h1 align="center">Hi 👋, I'm Shanmukha Sai Kotamsetti</h1>
 <h3 align="center">A passionate Undergraduate in Computer Science</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
